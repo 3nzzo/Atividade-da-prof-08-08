@@ -1,0 +1,19 @@
+@import url(header.css);
+:root {
+    --cor-de-fundo:#1b1b25;
+    --cor-cabecalho:#FFFFFF;
+
+}
+body { 
+    background-color: var(--cor-de-fundo);
+    margin: 0%;
+    padding: 0%;
+}
+
+.container_titulo{
+    color: #ffffff;
+}
+
+.container_frase{
+    color: #ffffff;
+}
